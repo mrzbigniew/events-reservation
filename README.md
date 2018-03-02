@@ -1,2 +1,2 @@
-* Events reservation
+# Events reservation
 Application for reservation events
