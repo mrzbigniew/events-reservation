@@ -1,2 +1,2 @@
 * Events reservation
-"Application for reservation events"
+Application for reservation events
